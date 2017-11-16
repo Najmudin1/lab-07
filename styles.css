@@ -27,7 +27,7 @@ figure img {
 */
 figcaption {
   box-sizing: border-box;
-  height: 4em;
+  height: 8em;
   line-height: 1.2em;
   padding: .25em;
   transform: translateY(4em);
